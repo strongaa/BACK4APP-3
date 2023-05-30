@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'1842c5cd-011e-47c4-8184-bd2ae96c9882'}
 
 # 其他Paas保活
-PAAS1_URL=https://newkbackApp3-leeandfilasman.b4a.run/
+PAAS1_URL=https://newkbackapp3-sasfsdgdfgfhdd.b4a.run/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
